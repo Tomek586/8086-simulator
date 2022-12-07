@@ -1,0 +1,80 @@
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.exe
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.deps.json
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.dll
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.pdb
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.MOVwind.resources
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.Properties.Resources.resources
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.XCHGwid.resources
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.dll
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\refint\8086.dll
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.pdb
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+C:\Users\X\Desktop\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\ref\8086.dll
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.exe
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.deps.json
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.dll
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\bin\Debug\net6.0-windows\8086.pdb
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.MOVwind.resources
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.Properties.Resources.resources
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\_8086.XCHGwid.resources
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.dll
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\refint\8086.dll
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.pdb
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+C:\Users\X\Desktop\xd\Nowy folder\8086-master\8086\obj\Debug\net6.0-windows\ref\8086.dll
+C:\Users\X\source\repos\8086\bin\Debug\net6.0-windows\8086.exe
+C:\Users\X\source\repos\8086\bin\Debug\net6.0-windows\8086.deps.json
+C:\Users\X\source\repos\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+C:\Users\X\source\repos\8086\bin\Debug\net6.0-windows\8086.dll
+C:\Users\X\source\repos\8086\bin\Debug\net6.0-windows\8086.pdb
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\_8086.MOVwind.resources
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\_8086.Properties.Resources.resources
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\_8086.XCHGwid.resources
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.dll
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\refint\8086.dll
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.pdb
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+C:\Users\X\source\repos\8086\obj\Debug\net6.0-windows\ref\8086.dll
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.csproj.AssemblyReference.cache
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.dll
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\refint\8086.dll
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.pdb
+D:\Users\tomasz.dziedzic\Desktop\8086\bin\Debug\net6.0-windows\8086.exe
+D:\Users\tomasz.dziedzic\Desktop\8086\bin\Debug\net6.0-windows\8086.deps.json
+D:\Users\tomasz.dziedzic\Desktop\8086\bin\Debug\net6.0-windows\8086.runtimeconfig.json
+D:\Users\tomasz.dziedzic\Desktop\8086\bin\Debug\net6.0-windows\8086.dll
+D:\Users\tomasz.dziedzic\Desktop\8086\bin\Debug\net6.0-windows\8086.pdb
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\_8086.Form1.resources
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\_8086.MOVwind.resources
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\_8086.Properties.Resources.resources
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\_8086.XCHGwid.resources
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.csproj.GenerateResource.cache
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.AssemblyInfoInputs.cache
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.AssemblyInfo.cs
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.csproj.CoreCompileInputs.cache
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\8086.genruntimeconfig.cache
+D:\Users\tomasz.dziedzic\Desktop\8086\obj\Debug\net6.0-windows\ref\8086.dll
